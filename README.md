@@ -8,3 +8,8 @@
 "ConnectionStrings": {
     "DefaultConnection": " ___USING-YOUR-CONNECTION-STRING_____"
 }
+## Add Nugets:
+### Mở Package Manager Console và chạy lệnh:
+Install-Package Microsoft.EntityFrameworkCore
+Install-Package Microsoft.EntityFrameworkCore.SqlServer
+Install-Package Microsoft.EntityFrameworkCore.Tools
